@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👤 Graduate Profile – Mechanical Engineering | Robotics & Automation
 
-<!--
-**Aungchinwain/aungchinwain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me
+I am a Mechanical Engineering graduate with a strong interest in **robotics, automation, and intelligent systems**. My profile emphasizes hands-on engineering, competitive achievements, and research experience relevant to applied and research-oriented graduate programs.
 
-Here are some ideas to get you started:
+## 🏆 Achievements
+- 🌍 **2 International Achievements** in engineering/technology competitions
+- 🇧🇩 **5+ National-Level Achievements** demonstrating technical excellence and teamwork
+- 🏅 Experience in problem-solving, prototyping, and system integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Research Experience
+- 📑 **2 Peer-Reviewed Conference Publications**
+- Worked on:
+  - system design and implementation  
+  - experimental validation  
+  - technical documentation and analysis  
+
+## 🔧 Technical Interests
+- Robotics and Automation  
+- Control Systems  
+- Embedded Systems & Sensors  
+- Mechanical Design  
+- Intelligent Engineering Systems  
+
+## 🎯 Goal
+To pursue **graduate studies (MS)** in Mechanical Engineering with a focus on **robotics and automation**, contributing to research-driven projects while advancing my technical and analytical skills under faculty mentorship.
+
+## 📬 Contact
+For academic collaboration, research opportunities, or graduate supervision discussions, feel free to connect.
