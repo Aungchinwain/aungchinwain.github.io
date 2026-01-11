@@ -1,29 +1,114 @@
-# 👤 Graduate Profile – Mechanical Engineering | Robotics & Automation
+🚀 Academic & Research Profile
 
-## 📌 About Me
-I am a Mechanical Engineering graduate with a strong interest in **robotics, automation, and intelligent systems**. My profile emphasizes hands-on engineering, competitive achievements, and research experience relevant to applied and research-oriented graduate programs.
+> Mechanical Engineering | Robotics | Mechanical CAD Design
+Prospective – Research & Funding Focused
 
-## 🏆 Achievements
-- 🌍 **2 International Achievements** in engineering/technology competitions
-- 🇧🇩 **5+ National-Level Achievements** demonstrating technical excellence and teamwork
-- 🏅 Experience in problem-solving, prototyping, and system integration
+---
 
-## 📄 Research Experience
-- 📑 **2 Peer-Reviewed Conference Publications**
-- Worked on:
-  - system design and implementation  
-  - experimental validation  
-  - technical documentation and analysis  
+👤 About Me
 
-## 🔧 Technical Interests
-- Robotics and Automation  
-- Control Systems  
-- Embedded Systems & Sensors  
-- Mechanical Design  
-- Intelligent Engineering Systems  
+I am a Mechanical Engineering graduate with a strong focus on Mechanical CAD Design, Robotics, and Applied Research. My profile demonstrates consistent academic and technical growth through peer-reviewed research, international and national achievements, and industry-recognized SOLIDWORKS certifications.
 
-## 🎯 Goal
-To pursue **graduate studies (MS)** in Mechanical Engineering with a focus on **robotics and automation**, contributing to research-driven projects while advancing my technical and analytical skills under faculty mentorship.
 
-## 📬 Contact
-For academic collaboration, research opportunities, or graduate supervision discussions, feel free to connect.
+---
+
+🎓 Education
+
+Bachelor’s Degree: Mechanical Engineering from Dhaka University of Engineering and Technology, Gazipur 
+
+
+
+
+
+---
+
+🛠️ Certifications
+
+🥇 CSWP – Certified SOLIDWORKS Professional
+
+🥈 CSWA – Certified SOLIDWORKS Associate
+
+
+> These certifications validate advanced competency in part modeling, assemblies, technical drawings, and professional CAD workflows.
+
+
+
+---
+
+📚 Research & Publications
+
+📄 Conference Papers
+
+2× International Conference Papers
+
+Topics related to mechanical design / robotics / applied engineering research
+
+
+📝 Journal Paper
+
+1× Journal Paper (In Progress)
+
+Targeting an international peer-reviewed journal
+
+
+---
+
+🏆 Achievements & Awards
+
+🌍 International Achievements
+
+2× International-Level Achievements
+
+Recognized for excellence in engineering / robotics / technical competitions
+
+
+
+🇧🇩 National Achievements
+
+5× National-Level Achievements
+
+Awards and recognitions at the national level for innovation and performance
+
+
+---
+
+🧠 Technical Skills
+
+Mechanical CAD: SOLIDWORKS (Advanced), Parametric Modeling, Assemblies, GD&T
+
+Design & Manufacturing: Sheet Metal, Weldments, Manufacturing Drawings
+
+Simulation: Motion Study, Basic FEA (if applicable)
+
+Robotics & Mechatronics: Mechanical system design, integration concepts
+
+Research Skills: Literature review, experimentation, academic writing
+
+
+---
+
+📁 Project Portfolio
+
+> (Add links to repositories, Drive, or portfolio pages)
+
+
+
+Advanced parametric CAD models
+
+Assembly design with motion analysis
+
+Manufacturing-ready drawings
+
+Research-oriented mechanical system designs
+
+
+
+---
+
+🎯 Academic & Career Goals
+
+To pursue a research-oriented Master’s degree in Mechanical Engineering / Robotics / Mechatronics in the USA, with the goal of contributing to robotics, automation, and advanced mechanical system design, followed by a career in R&D or doctoral research.
+
+
+---
+
