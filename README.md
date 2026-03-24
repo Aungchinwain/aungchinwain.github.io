@@ -1,114 +1,125 @@
-🚀 Academic & Research Profile
+# 👋 Aung Chin Wain
 
-> Mechanical Engineering | Robotics | Mechanical CAD Design
-Prospective – Research & Funding Focused
+**Mechanical Engineering · Robotics · Research**
 
----
-
-👤 About Me
-
-I am a Mechanical Engineering graduate with a strong focus on Mechanical CAD Design, Robotics, and Applied Research. My profile demonstrates consistent academic and technical growth through peer-reviewed research, international and national achievements, and industry-recognized SOLIDWORKS certifications.
-
+🎓 B.Sc. Mechanical Engineering Graduate — **DUET, Gazipur**
+🎯 Research-focused MS aspirant (USA) in **Mechanical Engineering / Robotics / Mechatronics**
 
 ---
 
-🎓 Education
+## 🚀 About Me
 
-Bachelor’s Degree: Mechanical Engineering from Dhaka University of Engineering and Technology, Gazipur 
+I am a Mechanical Engineering graduate with strong focus on **Mechanical CAD Design, Robotics, and Applied Research**.
 
+My profile reflects consistent academic and technical growth through:
 
+* 📄 Peer-reviewed conference publications
+* 🌍 International & national engineering achievements
+* 🏅 Industry-recognized **SOLIDWORKS certifications**
 
-
-
----
-
-🛠️ Certifications
-
-🥇 CSWP – Certified SOLIDWORKS Professional
-
-🥈 CSWA – Certified SOLIDWORKS Associate
-
-
-> These certifications validate advanced competency in part modeling, assemblies, technical drawings, and professional CAD workflows.
-
-
+🎯 **Long-term Goal:**
+Pursue a research-oriented Master's degree in the USA and contribute to robotics, automation, and advanced mechanical system design — followed by PhD / R&D career.
 
 ---
 
-📚 Research & Publications
+## 🛠 Technical Skills
 
-📄 Conference Papers
+### 🔹 Mechanical CAD Design
 
-2× International Conference Papers
+* SOLIDWORKS (Advanced)
+* Parametric Modeling
+* Assembly Design
+* GD&T
+* Technical Drawings
 
-Topics related to mechanical design / robotics / applied engineering research
+### 🔹 Design & Manufacturing
 
+* Sheet Metal Design
+* Weldments
+* Manufacturing Drawings
+* Design for Manufacturing
 
-📝 Journal Paper
+### 🔹 Simulation & Analysis
 
-1× Journal Paper (In Progress)
+* Motion Study
+* Basic FEA
+* Structural Analysis
+* Design Optimization
 
-Targeting an international peer-reviewed journal
+### 🔹 Robotics & Mechatronics
 
+* Mechanical System Design
+* Kinematic Design
+* Integration Concepts
 
----
+### 🔹 Research Skills
 
-🏆 Achievements & Awards
-
-🌍 International Achievements
-
-2× International-Level Achievements
-
-Recognized for excellence in engineering / robotics / technical competitions
-
-
-
-🇧🇩 National Achievements
-
-5× National-Level Achievements
-
-Awards and recognitions at the national level for innovation and performance
-
-
----
-
-🧠 Technical Skills
-
-Mechanical CAD: SOLIDWORKS (Advanced), Parametric Modeling, Assemblies, GD&T
-
-Design & Manufacturing: Sheet Metal, Weldments, Manufacturing Drawings
-
-Simulation: Motion Study, Basic FEA (if applicable)
-
-Robotics & Mechatronics: Mechanical system design, integration concepts
-
-Research Skills: Literature review, experimentation, academic writing
-
+* Literature Review
+* Experimentation
+* Academic Writing
+* Conference Publications
 
 ---
 
-📁 Project Portfolio
+## 📚 Research & Publications
 
-> (Add links to repositories, Drive, or portfolio pages)
+* 📄 **International Conference Paper #1**
+  *Topics:* Mechanical Design / Robotics / Applied Engineering
 
+* 📄 **International Conference Paper #2**
+  *Topics:* Mechanical Design / Robotics / Applied Engineering
 
-
-Advanced parametric CAD models
-
-Assembly design with motion analysis
-
-Manufacturing-ready drawings
-
-Research-oriented mechanical system designs
-
-
+* 🧪 **Journal Paper (In Progress)**
+  Targeting high-impact international engineering journal
 
 ---
 
-🎯 Academic & Career Goals
+## ⚙️ Projects
 
-To pursue a research-oriented Master’s degree in Mechanical Engineering / Robotics / Mechatronics in the USA, with the goal of contributing to robotics, automation, and advanced mechanical system design, followed by a career in R&D or doctoral research.
+### 🔧 Advanced Parametric CAD Models
 
+Complex part & assembly modeling using SOLIDWORKS design tables and configurations.
+
+### 🤖 Assembly Design with Motion Analysis
+
+Multi-part mechanical assemblies with full kinematic motion simulation.
+
+### 📐 Manufacturing-Ready Technical Drawings
+
+GD&T-annotated drawings following ASME / ISO standards.
+
+### 🧠 Research-Oriented Mechanical System Design
+
+Mechanical system development supporting published research work.
 
 ---
 
+## 🏆 Achievements
+
+* 🌍 **2× International Engineering Achievements**
+* 🇧🇩 **5× National-Level Awards (Bangladesh)**
+* 🏅 **CSWP — Certified SOLIDWORKS Professional**
+* 🏅 **CSWA — Certified SOLIDWORKS Associate**
+
+---
+
+## 📊 Profile Highlights
+
+| Category                  | Count |
+| ------------------------- | ----- |
+| Conference Papers         | 2     |
+| International Awards      | 2     |
+| National Awards           | 5     |
+| SOLIDWORKS Certifications | 2     |
+
+---
+
+## 📬 Contact
+
+* 💻 GitHub: https://github.com/Aungchinwain
+* 🌐 Portfolio: https://aungchinwain.github.io
+* 📧 Email: aungchinwain@gmail.com
+
+---
+
+⭐ *Open to research collaborations, graduate opportunities, scholarships, and robotics/mechanical engineering internships.*
