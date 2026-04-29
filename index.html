@@ -209,6 +209,9 @@ In Progress — Targeting Q1/Q2 Journal
 <div class="card">🏆 Journal paper working (2024)</div>
 <div class="card">📋 3rd Intl. Conference Paper (2026)</div>
   <img src="assets/img/3rdcard.jpg" alt="Conference Paper" class="card-img">
+    <p class="card-text">
+  Paper presented at the 8th International Conference on Sustainable Development 2026, United International University.
+</p>
 </div>
 <div class="card">📋 2nd Intl. Conference Paper (2026)</div>
 <div class="card">📋 1st Intl. Conference Paper presented (2026)</div>
@@ -223,10 +226,28 @@ In Progress — Targeting Q1/Q2 Journal
       border-radius: 8px;
       object-fit: cover;
     }
+
+    .card-text {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #444;
+      line-height: 1.5;
+
+      /* animation */
+      opacity: 0;
+      transform: translateY(10px);
+      animation: fadeUp 1s ease forwards;
+      animation-delay: 0.3s;
+    }
+
+    @keyframes fadeUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
   </style>
 </head>
-
-</div>
 
 <!-- GOALS -->
 <div class="section">
